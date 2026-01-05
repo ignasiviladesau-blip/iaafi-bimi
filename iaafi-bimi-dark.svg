@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2"
+     baseProfile="tiny"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512">
+
+  <!-- Black background -->
+  <rect x="0" y="0" width="512" height="512" fill="#000000"/>
+
+  <!-- White letters -->
+  <g fill="#FFFFFF">
+    <!-- Common metrics -->
+    <!-- Top = 150, Bottom = 362, Height = 212 -->
+
+    <!-- I -->
+    <rect x="50" y="150" width="28" height="212"/>
+
+    <!-- A (1) -->
+    <!-- Left diagonal -->
+    <polygon points="107,362 136,362 162,150 136,150"/>
+    <!-- Right diagonal -->
+    <polygon points="162,150 188,362 216,362 188,150"/>
+    <!-- Cross bar -->
+    <rect x="129" y="260" width="66" height="18"/>
+
+    <!-- A (2) -->
+    <!-- Left diagonal -->
+    <polygon points="210,362 239,362 265,150 239,150"/>
+    <!-- Right diagonal -->
+    <polygon points="265,150 291,362 319,362 291,150"/>
+    <!-- Cross bar -->
+    <rect x="240" y="260" width="44" height="18"/>
+
+    <!-- F -->
+    <!-- Stem -->
+    <rect x="330" y="150" width="28" height="212"/>
+    <!-- Top bar -->
+    <rect x="330" y="150" width="86" height="28"/>
+    <!-- Mid bar -->
+    <rect x="330" y="242" width="70" height="28"/>
+
+    <!-- I -->
+    <rect x="436" y="150" width="28" height="212"/>
+  </g>
+</svg>

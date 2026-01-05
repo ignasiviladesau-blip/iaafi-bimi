@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+     version="1.2"
+     baseProfile="tiny"
+     width="512"
+     height="512"
+     viewBox="0 0 512 512">
+
+  <g fill="#000000">
+    <!-- Common metrics -->
+    <!-- Top = 150, Bottom = 362, Height = 212 -->
+
+    <!-- I -->
+    <rect x="50" y="150" width="28" height="212"/>
+
+    <!-- A (1) -->
+    <!-- Left diagonal -->
+    <path d="M98 362 L122 362 L156 150 L138 150 Z"/>
+    <!-- Right diagonal -->
+    <path d="M170 362 L194 362 L154 150 L136 150 Z"/>
+    <!-- Crossbar -->
+    <rect x="124" y="260" width="44" height="18"/>
+
+    <!-- A (2) -->
+    <path d="M214 362 L238 362 L272 150 L254 150 Z"/>
+    <path d="M286 362 L310 362 L270 150 L252 150 Z"/>
+    <rect x="240" y="260" width="44" height="18"/>
+
+    <!-- F -->
+    <!-- Stem -->
+    <rect x="330" y="150" width="28" height="212"/>
+    <!-- Top bar -->
+    <rect x="330" y="150" width="86" height="28"/>
+    <!-- Mid bar -->
+    <rect x="330" y="242" width="70" height="28"/>
+
+    <!-- I -->
+    <rect x="436" y="150" width="28" height="212"/>
+  </g>
+</svg>
